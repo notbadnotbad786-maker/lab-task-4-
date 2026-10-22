@@ -1,3 +1,6 @@
+SIR G mara pass ms world crack nhi ha ma koi or tool use kr rha hu gen office ka AI ka zariya ms office ka reverse engeneering ha jis ki waja sa mari report ma table sai nhi bani un ki value aaa jati ha lakin heading nhi ati 
+
+ 
  Lab 4. Informed Search: Heuristics &amp; A\*
 
 Student: Muhammad Ammar Khan (SU92-BSAIM-F25-333 BSAI-3A)
