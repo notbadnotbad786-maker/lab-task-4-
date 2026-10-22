@@ -1,20 +1,19 @@
-\# Lab 4. Informed Search: Heuristics &amp; A\*
+ Lab 4. Informed Search: Heuristics &amp; A\*
 
 Student: Muhammad Ammar Khan (SU92-BSAIM-F25-333 BSAI-3A)
 
-\## Setup
+ Setup
 
-\- Lab 4. Informed Search: Heuristics &amp; A\* uses Python 3.8 or newer. I did not need any third-party packages.
+ Lab 4. Informed Search: Heuristics &amp; A\* uses Python 3.8 or newer. I did not need any third-party packages.
 
-\## Run
+ Run
 
 \`\`\`
 
 python lab4\_astar\_[audit.ipynb](http://audit.py) &gt; output.txt
 
-\`\`\`
 
-\## Files
+ Files
 
 \- Lab 4. Informed Search: Heuristics &amp; A\* file `lab4_astar_`[`audit.py`](http://audit.py) contains A\* UCS control with h = 0, an audit test, an experiment, with h(C) = 10 overestimate and a case where the goal cannot be reached.
 
@@ -24,6 +23,6 @@ python lab4\_astar\_[audit.ipynb](http://audit.py) &gt; output.txt
 
 \- Lab 4. Informed Search: Heuristics &amp; A\* file `Lab4_Report.docx` is the report document.
 
-\## Source
+ Source
 
 Lab 4. Informed Search: Heuristics &amp; A\* graph guided A\* skeleton were adapted from the Lab 4 manual (CAI601400 AI Lab Manual, Sections 4.1-4.7).
